@@ -1,0 +1,25 @@
+{
+  "name": "elm-architecture",
+  "version": "1.0.0",
+  "description": "Elm Language Testing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dgale1983/elm-architecture.git"
+  },
+  "keywords": [
+    "elm"
+  ],
+  "author": "Dallas Gale",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dgale1983/elm-architecture/issues"
+  },
+  "homepage": "https://github.com/dgale1983/elm-architecture#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1"
+  }
+}
